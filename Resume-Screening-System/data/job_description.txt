@@ -1,0 +1,17 @@
+Job Title: Machine Learning Engineer
+
+Requirements:
+- Bachelor's degree in Computer Science or related field.
+- Strong knowledge of Python.
+- Experience with Machine Learning and Deep Learning.
+- Knowledge of SQL and Data Analysis.
+- Familiarity with Scikit-learn, Pandas and NumPy.
+- Experience with TensorFlow or PyTorch.
+- Good communication skills.
+- Git version control.
+
+Responsibilities:
+- Build machine learning models.
+- Analyze datasets.
+- Develop prediction systems.
+- Collaborate with software engineers.
